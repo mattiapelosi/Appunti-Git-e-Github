@@ -10,3 +10,10 @@ Un *repository* contiene tutti i *file* del progetto e la cronologia delle revis
 è possibile usare i repository per gestire il lavoro, tenere traccia delle modifiche, archiviare la cronologia delle revisioni e collaborare con altri utenti.
 
 ### Come creare un repository
+
+Se si ha installato il programma `git` nel proprio *computer*, si può invocare il programma da riga di comando (*shell* o *prompt* o *terminale*), si usa:
+
+```sh
+git init
+```
+Il comando crea una *directory* (cartella) di nome `.git` che conterrà tutte le informazioni sul progetto
