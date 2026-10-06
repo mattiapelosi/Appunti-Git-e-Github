@@ -16,4 +16,4 @@ Se si ha installato il programma `git` nel proprio *computer*, si può invocare 
 ```sh
 git init
 ```
-Il comando crea una *directory* (cartella) di nome `.git` che conterrà tutte le informazioni sul progetto
+Il comando crea una *directory* (cartella) di nome `.git` che conterrà tutte le informazioni sul progetto.
